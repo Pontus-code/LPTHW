@@ -1,3 +1,3 @@
-# Learning python 3 the hard way - Excercise 0. The Setup
+# Learning Python 3 the Hard Way - Excercise 0. The Setup.
 
-print("This is only a test file")
+print("This is only a test file.")
