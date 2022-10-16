@@ -1,4 +1,4 @@
-# Learning python 3 the hard way - Excercise 3. Numbers and Math
+# Learning Python 3 the Hard Way - Excercise 3. Numbers and Math.
 
 # This will print some words.
 print("I will now count my chickens:")
@@ -14,7 +14,7 @@ print("Now I will count the eggs:")
 # This will make some calculations. I guess the number of eggs.
 print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
 
-# This will print som words and calculate if a statement is True or False.
+# This will print som words and calculate if the statement is True or False.
 print("Is it true that 3 + 2 < 5 - 7?")
 
 # This will calculate if the statement is True or False.
@@ -31,7 +31,7 @@ print("Oh, that's why it's False.")
 # This line will also print some words.
 print("How about some more.")
 
-# This will print some words and decide if a statement is True or False.
+# This will print some words and decide if the statement is True or False.
 print("Is it greater?", 5 > -2)
 # This line will do the same.
 print("Is it greater or equal?", 5 >= -2)
