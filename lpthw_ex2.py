@@ -1,4 +1,4 @@
-# Learning python 3 the hard way - Excercise 2. Comments and Pound Characters
+# Learning Python 3 the Hard Way - Excercise 2. Comments and Pound Characters.
 
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by python.
