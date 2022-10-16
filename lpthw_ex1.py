@@ -1,4 +1,4 @@
-# Learning python 3 the hard way - Exercise 1. A Good First Program
+# Learning Python 3 the Hard Way - Exercise 1. A Good First Program.
 
 print("Hello World!")
 print("Hello Again!")
